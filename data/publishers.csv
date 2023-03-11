@@ -1,26 +1,27 @@
-publisher,shortname
-Agence sanitaire et sociale de Nouvelle-Calédonie,ASS-NC
-CAFAT,CAFAT
-Chambre de commerce et d'industrie de Nouvelle-Calédonie,CCI-NC
-Chambre de métiers et de l'artisanat de Nouvelle-Calédonie,CMA-NC
-Commune de Koohnê,Koné
-GIE SERAIL,S.E.R.A.I.L
-Gouvernement de la Nouvelle-Calédonie,gouv.nc
-Haut-Commissariat de la République en Nouvelle-Calédonie,nouvelle-caledonie.gouv.fr
-INSEE,Insee
-Institut de la statistique et des études économiques,ISEE
-Ministère de l'Intérieur,interieur.gouv.fr
-Météo-France,meteofrance
-Office des postes et télécommunications de Nouvelle-Calédonie (OPT-NC),OPT-NC
-Politique de l'eau partagée en Nouvelle-Calédonie,eau.nc
-Province Nord,P.Sud
-Province Sud,P.Nord
-Province des Iles Loyauté,Province des Iles
-Pôle Emploi,Pôle Emploi
-Syndicat Mixte des Transports Urbains du Grand Nouméa,SMTU
-Vice-rectorat de la Nouvelle-Calédonie,Vice rectorat NC
-Ville de Dumbéa,Dumbéa
-Ville de Kaala-Gomen,Kaala-Gomen
-Ville de Nouméa,Nouméa
-Ville de Païta,Païta
-Ville du Mont-Dore,Mont-Dore
+publisher,shortname,"iso_alpha_2",iso_alpha_3,siren,siret,rid7,www_url,twitter,facebook,instagram,url_linkedin,youtube_handle,github
+Agence sanitaire et sociale de Nouvelle-Calédonie,DASS,"NC",NCL,,,0133538,https://dass.gouv.nc/,GouvNC,,,,,
+CAFAT,CAFAT,"NC",NCL,,,0112615,https://www.cafat.nc/,,cafat.nc,,https://www.linkedin.com/company/cafat./,cafat6485,
+Chambre de commerce et d'industrie de Nouvelle-Calédonie,CCI-NC,"NC",NCL,,,0115576,https://www.cci.nc/,,cci.nouvellecaledonie,opt_nc,https://www.linkedin.com/company/ccinc/,ccinc1787,
+Chambre de métiers et de l'artisanat de Nouvelle-Calédonie,CMA-NC,"NC",NCL,,,0147421,https://www.cma.nc/,,cma.nouvelle.caledonie,,,cma-nc,
+Commune de Koohnê,Koné,"NC",NCL,,,0133017,https://www.koohne.nc/,,PointIKoohne,,,,
+GIE SERAIL,S.E.R.A.I.L,"NC",NCL,,,,https://www.serail.nc/,,,,,,
+Gouvernement de la Nouvelle-Calédonie,Gouv.nc,"NC",NCL,,,0566661,https://gouv.nc/,GouvNC,GouvNC,,https://www.linkedin.com/company/gouvernement-de-la-nouvelle-caledonie/,gouvernementdelanouvelle-c5161,
+Haut-Commissariat de la République en Nouvelle-Calédonie,Haut-Commissariat,"FR",FRA,130003122,,0134551,https://www.nouvelle-caledonie.gouv.fr/,HC98800,hautcommissariat.ennouvellecaledonie,,https://www.linkedin.com/company/haut-commissariat-de-la-r%C3%A9publique-en-nouvelle-cal%C3%A9donie/,haut-commissariatennouvell9616,
+INSEE,Insee,"FR",FRA,,,,https://www.insee.fr/en/accueil,InseeFr,,,https://www.linkedin.com/company/insee/,insee-institutnationaldela5376,
+Institut de la statistique et des études économiques,ISEE,"NC",NCL,,,0134361,https://www.isee.nc/,StatEcoNC,isee.nc,,https://www.linkedin.com/company/isee-nc/,iseenc8329,
+Ministère de l'Intérieur,interieur.gouv.fr,"FR",FRA,110014016,,,https://www.interieur.gouv.fr/,"Interieur_Gouv
+",Interieur.Gouv,,https://www.linkedin.com/company/ministere-de-l-interieur/,MinistereInterieur,
+Météo-France,meteofrance,"FR",FRA,180060030,,,https://meteofrance.fr/,meteofrance,MeteoFrance,,https://www.linkedin.com/company/meteo-france/,Meteofrance0,
+Office des postes et télécommunications de Nouvelle-Calédonie (OPT-NC),OPT-NC,"NC",NCL,,,0132720,https://www.opt.nc/,OPT_NC,OPT.NC,,https://www.linkedin.com/company/opt-new-caledonia/mycompany/,optnc,opt-nc
+Politique de l'eau partagée en Nouvelle-Calédonie,PEPNC,"NC",NCL,,,,https://eau.nc/politique-de-leau-partagee/presentation,,eaunouvellecaledonie,,,,
+Province Nord,P.Sud,"NC",NCL,,,0144402,https://www.province-sud.nc/,ProvinceSud,provincesud,province_sud,https://www.linkedin.com/company/province-sud/,province-sud,
+Province Sud,P.Nord,"NC",NCL,,,0201731,https://www.province-nord.nc/,,ProvinceNordNC,,https://www.linkedin.com/company/province-nord-nouvelle-cal-donie/,,
+Province des Iles Loyauté,Province des Iles,"NC",NCL,,,,https://www.province-iles.nc/,,Provincedesiles,,https://www.linkedin.com/company/la-province-des-iles-loyaut%C3%A9/,provinceilesloyaute8901,
+Pôle Emploi,Pôle Emploi,"FR",FRA,130005481,13000548100010,,https://www.pole-emploi.fr/,pole_emploi,poleemploi,,https://www.linkedin.com/company/poleemploi/,poleemploiorg,
+Syndicat Mixte des Transports Urbains du Grand Nouméa,SMTU,"NC",NCL,,,,https://www.smtu.nc,,,,,,
+Vice-rectorat de la Nouvelle-Calédonie,Vice rectorat,"NC",NCL,,,0130898,https://www.ac-noumea.nc/,,acnoumea,,https://www.linkedin.com/company/vice-rectorat-de-la-nouvelle-caledonie/,,
+Ville de Dumbéa,Dumbéa,"NC",NCL,,,0132951,https://www.ville-dumbea.nc/,,,,,,
+Ville de Kaala-Gomen,Kaala-Gomen,"NC",NCL,,,0133009,https://www.commune-mairie.fr/kaala-gomen-98817/,,,,,,
+Ville de Nouméa,Nouméa,"NC",NCL,,,0133041,https://www.noumea.nc/,,noumeamaville,,https://www.linkedin.com/company/noumea-town-hall/,VilleDeNoumea,
+Ville de Païta,Païta,"NC",NCL,,,0133108,https://paita.nc/,,MairiePaita,,,mairiepaita,
+Ville du Mont-Dore,Mont-Dore,"NC",NCL,,,0133074,https://www.mont-dore.nc/,,mairiemontdore,,,,
