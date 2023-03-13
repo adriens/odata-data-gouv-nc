@@ -22,14 +22,15 @@ create or replace table publishers (
 insert into publishers
 select *
 from
-    read_csv_auto('https://raw.githubusercontent.com/adriens/odata-data-gouv-nc/main/data/publishers.csv')
-;
+    read_csv_auto('https://raw.githubusercontent.com/adriens/odata-data-gouv-nc/main/data/publishers.csv');
+
 ```
 
 # Requêter
 
 ```sql
 select * from publishers;
+
 ```
 
 ```sql
@@ -39,4 +40,5 @@ SELECT publisher,
 from publishers
 where
     iso_alpha_2= 'FR';
+
 ```
