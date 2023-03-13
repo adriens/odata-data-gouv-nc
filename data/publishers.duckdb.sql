@@ -3,6 +3,7 @@ create or replace table publishers (
     shortname VARCHAR NOT NULL,
     iso_alpha_2 VARCHAR(2) NOT NULL CHECK (iso_alpha_2 = 'NC' or iso_alpha_2 = 'FR'),
     iso_alpha_3 VARCHAR(3) NOT NULL CHECK (iso_alpha_3 = 'NCL' or iso_alpha_3 = 'FRA'),
+    code_officiel_geographique_insee INTEGER NOT NULL,
     siren VARCHAR(9) check (siren is null or length(siren) = 9),
     siret VARCHAR(14) check (siret is null or length(siret) = 14),
     rid7 VARCHAR(7) check (rid7 is null or length(rid7) = 7),
