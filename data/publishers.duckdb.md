@@ -1,3 +1,6 @@
+## Créer la table et charger les données
+
+```sql
 create or replace table publishers (
     publisher VARCHAR NOT NULL PRIMARY KEY,
     shortname VARCHAR NOT NULL,
@@ -19,8 +22,22 @@ create or replace table publishers (
 insert into publishers
 select *
 from
-read_csv_auto('https://raw.githubusercontent.com/adriens/odata-data-gouv-nc/main/data/publishers.csv');
+    read_csv_auto('https://raw.githubusercontent.com/adriens/odata-data-gouv-nc/main/data/publishers.csv')
+order by publisher asc
+;
+```
 
+# Requêter
 
-select *
-from publishers;
+```sql
+select * from publishers;
+```
+
+```sql
+SELECT publisher,
+    shortname,
+    siren
+from publishers
+where
+    iso_alpha_2= 'FR';
+```
