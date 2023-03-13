@@ -26,6 +26,7 @@ select *
 from
     read_csv_auto('https://raw.githubusercontent.com/adriens/odata-data-gouv-nc/main/data/publishers.csv');
 
+
 ```
 
 # Requêter
