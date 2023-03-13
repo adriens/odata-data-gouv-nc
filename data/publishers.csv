@@ -1,4 +1,4 @@
-publisher,shortname,"iso_alpha_2",iso_alpha_3,code_officiel_geographique_insee,siren,siret,rid7,www_url,twitter_handle,facebook_handle,instagram_handle,url_linkedin,youtube_handle,github_handle,dockerhub_handle,kaggle_handle
+publisher,shortname,"iso_alpha_2",iso_alpha_3,code_officiel_geographique_insee,siren,siret,rid7,www_url,handle_twitter,handle_facebook,handle_instagram,url_linkedin,handle_youtube,handle_github,handle_dockerhub,handle_kaggle
 Agence sanitaire et sociale de Nouvelle-Calédonie,DASS,"NC",NCL,98818,,,0133538,https://dass.gouv.nc/,GouvNC,,,,,,,
 CAFAT,CAFAT,"NC",NCL,98818,,,0112615,https://www.cafat.nc/,,cafat.nc,,https://www.linkedin.com/company/cafat./,cafat6485,,,
 Chambre de commerce et d'industrie de Nouvelle-Calédonie,CCI-NC,"NC",NCL,98818,,,0115576,https://www.cci.nc/,,cci.nouvellecaledonie,opt_nc,https://www.linkedin.com/company/ccinc/,ccinc1787,,,
